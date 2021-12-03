@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick Steele</h1>
-<h3 align="center">A Linux/Windows/Exchange Sysadmin passionate about learning Python, SQL and DevOps</h3>
+<h3 align="center">A Cloud/Linux/Windows/Exchange Sysadmin passionate about learning Python, SQL and DevOps</h3>
 
 <p align="left"> <a href="https://twitter.com/pythonpatrick" target="blank"><img src="https://img.shields.io/twitter/follow/pythonpatrick?logo=twitter&style=for-the-badge" alt="pythonpatrick" /></a> </p>
 
